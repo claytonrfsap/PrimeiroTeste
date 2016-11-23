@@ -5,3 +5,7 @@ so vou deixar isso em DEV
 =======
 uma pessoa bateu em minha porta abc
 >>>>>>> refs/remotes/origin/qualidade
+
+
+
+So esta em DEv
