@@ -1,3 +1,7 @@
 teste 01
+<<<<<<< HEAD
 uma pessoa bateu em minha porta
 so vou deixar isso em DEV
+=======
+uma pessoa bateu em minha porta abc
+>>>>>>> refs/remotes/origin/qualidade
